@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA — Complete Digital Ecosystem",
+  "description": "Enterprise-grade digital ecosystem uniting authentication, analytics, project workflows, LMS, digital marketplace, real-time collaboration, and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
